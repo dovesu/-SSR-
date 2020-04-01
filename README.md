@@ -1,4 +1,4 @@
 # -免费SSR-
 日本节点配置链接：ssr://anBvbmUuZGFpbHlzaG9wLnRvcDoxMDEwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlR6WkZPR0UzLz9vYmZzcGFyYW09WldKa1pqQXhMbnBvWVc5cUxtbHUmcHJvdG9wYXJhbT1NVG8wTjNSeGQyZDVhREoyYVEmcmVtYXJrcz01cGVsNXB5c0lHOXVaU0JUVXlNME5BJmdyb3VwPTZJZXE1NVN4NmFPZTU1U2Y1clM3NTcyUklDMGc2YUcyNTV5QjZaS3g
 
-获取更多线路：<a href="https://freefly.life/user/hezu" target="blank">自由飞.网址</a> 邀请码：vWyu
+获取更多线路：<a href="https://freefly.life/user/hezu">自由飞.网址</a> 邀请码：vWyu
