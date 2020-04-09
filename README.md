@@ -21,4 +21,4 @@ vmess://eyJob3N0IjoiaGswMy5mcmVlZmx5LmxpZmUiLCJwYXRoIjoiXC9nYW1lIiwidGxzIjoidGxz
 
 以上线路不定期更新。
 
-获取属于自己的线路：<a href="https://freefly.life/user/hezu">自由飞.网址</a> 邀请码：vWyu
+获取属于自己的线路：<a href="https://xn--sny74yy1r.xn--ses554g/auth/register?code=c9HR">自由飞.网址</a> 邀请码：c9HR
