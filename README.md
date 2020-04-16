@@ -1,4 +1,4 @@
-# -免费SSR/v2ray-
+# -免费SSR/v2ray/Trojan-
 【SSR节点配置链接】
 
 香港01：
@@ -21,4 +21,4 @@ vmess://eyJob3N0IjoiaGswMy5mcmVlZmx5LmxpZmUiLCJwYXRoIjoiXC9nYW1lIiwidGxzIjoidGxz
 
 以上线路不定期更新。
 
-获取属于自己的线路：<a href="https://xn--sny74yy1r.xn--ses554g/auth/register?code=c9HR">自由飞.网址</a> 邀请码：c9HR
+获取属于自己的SSR/v2ray/Trojan线路：<a href="https://xn--sny74yy1r.xn--ses554g/auth/register?code=c9HR">eeee.ooo</a> 邀请码：c9HR
