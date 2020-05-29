@@ -10,6 +10,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ18zLm1hZmlhMS50ayIsCiAgImFkZCI6
 新加坡2：
 vmess://YXV0bzo4NjAzMWVhNi00ZTI1LTQ5YWQtYjI3Yi1jOWYxMTU1MTFmMWJAYWJjLmphbWlleHh4LmljdTo0NDM?remarks=website%20:%20eeee.ooo&obfsParam=abc.jamiexxx.icu&path=/03e42e7c/&obfs=websocket&tls=1
 
+2020.05.29更新（不定期更新）
+
 【Trojan节点配置链接】
 注册体验
 
