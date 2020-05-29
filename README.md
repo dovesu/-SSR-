@@ -4,8 +4,11 @@
 
 【v2ray节点配置链接】
 
-新加坡：
+新加坡1：
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ18zLm1hZmlhMS50ayIsCiAgImFkZCI6ICIzLm1hZmlhMS50ayIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiYWVlMzM3ODktM2E5MS00MjFiLWE2YzQtOWIxMTgzMTJlYzlmIiwKICAiYWlkIjogIjY4IiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIzLm1hZmlhMS50ayIsCiAgInBhdGgiOiAiLzY5ZWY1MTA4LyIsCiAgInRscyI6ICJ0bHMiCn0K
+
+新加坡2：
+vmess://YXV0bzo4NjAzMWVhNi00ZTI1LTQ5YWQtYjI3Yi1jOWYxMTU1MTFmMWJAYWJjLmphbWlleHh4LmljdTo0NDM?remarks=website%20:%20eeee.ooo&obfsParam=abc.jamiexxx.icu&path=/03e42e7c/&obfs=websocket&tls=1
 
 【Trojan节点配置链接】
 注册体验
