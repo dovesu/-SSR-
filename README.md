@@ -1,7 +1,7 @@
 # -长期免费Trojan(只要网站不关闭就永久免费)-
 
 注册链接:
-http://dddd.ooo/?1OGj
+http://dddd.ooo/?1h4m
 
 记得在订阅地址后面加上“=5”
 
