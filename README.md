@@ -1,4 +1,4 @@
-# -长期免费Trojan-
+# -长期免费Trojan(只要网站不关闭永久免费)-
 
 注册链接:
 http://dddd.ooo/?1OGj
